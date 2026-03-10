@@ -6,7 +6,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 /**
- * This class represent the cart page (cart.html)
+ * This class represent the cart page
+ * (<a href="https://www.saucedemo.com/cart.html">https://www.saucedemo.com/cart.html</a>)
  */
 public class CartPage extends UIPage {
     @FindBy(id = "checkout")

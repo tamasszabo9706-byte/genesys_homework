@@ -11,7 +11,8 @@ import java.time.Duration;
 import java.util.List;
 
 /**
- * This class represents the selenium tutorial page (<a href="https://www.guru99.com/selenium-tutorial.html">https://www.guru99.com/selenium-tutorial.html</a>)
+ * This class represents the selenium tutorial page
+ * (<a href="https://www.guru99.com/selenium-tutorial.html">https://www.guru99.com/selenium-tutorial.html</a>)
  */
 public class SeleniumTutorialPage extends UIPage {
     @FindBy(id = "wrapper")

@@ -12,7 +12,8 @@ import java.time.Duration;
 import java.util.List;
 
 /**
- * This class represents the online HTML editor page (<a href="https://onlinehtmleditor.dev/">https://onlinehtmleditor.dev/</a>)
+ * This class represents the online HTML editor page
+ * (<a href="https://onlinehtmleditor.dev/">https://onlinehtmleditor.dev/</a>)
  */
 public class OnlineHTMLEditorPage extends UIPage {
     @FindBy(className = "ck-content")

@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 /**
  * This class represent the login page of Swag Labs
+ * (<a href="https://www.saucedemo.com">https://www.saucedemo.com/</a>)
  */
 public class SwagLabsLoginPage extends UIPage {
     @FindBy(id = "root")
